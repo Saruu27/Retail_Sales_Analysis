@@ -1,6 +1,6 @@
 # Retail_Sales_Analysis
 
-#Project Overview
+Project Overview
 
 Project Title: Retail Sales Analysis
 Level: Beginner
